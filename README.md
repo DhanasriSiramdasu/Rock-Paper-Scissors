@@ -64,10 +64,10 @@ Rock-Paper-Scissors/
 
 > Add screenshots of your application here.
 
-<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/4ea6098a-aa9c-475c-9e38-dce0caabdef0" />
-<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/dbadb49d-dd4a-4863-b849-098ff01aea4e" />
-<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/2a6f5df2-2a18-45ed-b17c-6456e13d83fa" />
-<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/8ea507ba-e473-491b-90d8-b20869a3ffa2" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/4ea6098a-aa9c-475c-9e38-dce0caabdef0" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/dbadb49d-dd4a-4863-b849-098ff01aea4e" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/2a6f5df2-2a18-45ed-b17c-6456e13d83fa" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/8ea507ba-e473-491b-90d8-b20869a3ffa2" />
 
 
 ---
